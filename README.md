@@ -1,16 +1,11 @@
 Please consider cite ASPS_MN for band selection if you find it helpful.
 
 @article{Wang2019Hyper, \
-title={Hyperspectral Band Selection via Adaptive Subspace Partition Strategy},
-    
-    author={Q. Wang, Q. Li, and X. Li},
-    
-    journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-    
-    year={2019},
-    
-    publisher={IEEE}
-    
+    title={Hyperspectral Band Selection via Adaptive Subspace Partition Strategy},\
+    author={Q. Wang, Q. Li, and X. Li},\
+    journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},\
+    year={2019},\
+    publisher={IEEE} \
 }
 
 To run the code, please run 'main.m' in MATLAB
