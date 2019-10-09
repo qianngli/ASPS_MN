@@ -5,6 +5,7 @@ Please consider cite ASPS_MN for band selection if you find it helpful.
     author={Q. Wang, Q. Li, and X. Li},\
     journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},\
     year={2019},\
+    DOI={10.1109/JSTARS.2019.2941454},\
     publisher={IEEE} \
 }
 
