@@ -21,6 +21,9 @@ Result
 
 Classification Performance
 ----------
+![Image text](https://raw.githubusercontent.com/qianngli/Images/master/asps_ip.png)
+![Image text](https://raw.githubusercontent.com/qianngli/Images/master/asps_pu.png)
+![Image text](https://raw.githubusercontent.com/qianngli/Images/master/asps_s.png)
 
 Computational Time 
 ----------
