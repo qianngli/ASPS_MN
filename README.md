@@ -1,4 +1,4 @@
-FNGBS
+ASPS_MN
 ======
 **This is an implementation of  Hyperspectral Band Selection via Adaptive Subspace Partition Strategy.**
   
@@ -28,7 +28,7 @@ Classification Performance
 Computational Time 
 ----------
 | Dataset  |  TOF |  MDSR |  WaLuDi | RMBS | UBS | ASPS_MN (10%)| ASPS_MN (100%) |
-| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | 
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
 |  Indian Pines (15 bands) | 0.649 | 0.205 | 7.507 | 43.618| 0.009 | 0.915 | 6.785 |
 |  Pavia University (10 bands) |0.741 | | 0.208 | 26.775 | 200.396 | 0.009 | 0.895 | 3.440 |
 |  Salinas (15 bands) | 1.356 | 0.313 | 40.357 | 265.555 | 0.009 | 1.128 | 5.884 |
