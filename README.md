@@ -4,7 +4,7 @@ ASPS_MN
   
 Dataset
 ------
-**Four public datasets, i.e., [Indian Pines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes "Indian Pines"), [Botswana](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes "Botswana"), [Pavia University](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes "Pavia University")， and [Salinas](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes "Salinas"), are employed to verify the effectiveness of the  proposed ASPS_MN.**
+**Three public datasets, i.e., [Indian Pines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes "Indian Pines"),  [Pavia University](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes "Pavia University")， and [Salinas](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes "Salinas"), are employed to verify the effectiveness of the  proposed ASPS_MN.**
 
 Requirement
 ---------
